@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/RELEASE-v1.0-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=FF1744" alt="Version 1.0" />
 </p>
 
-[⬇️ APK ডাউনলোড](releases/INDIA_IPTV_1.0.apk) · [🐞 সমস্যা জানান](https://github.com/USERNAME/REPOSITORY/issues) · [📦 Releases](https://github.com/USERNAME/REPOSITORY/releases)
+[⬇️ APK ডাউনলোড](https://github.com/SUBROTO-2/india-iptv/releases/download/main/INDIA.IPTV_1.0.apk) · [🐞 সমস্যা জানান](https://github.com/USERNAME/REPOSITORY/issues) · [📦 Releases](https://github.com/USERNAME/REPOSITORY/releases)
 
 </div>
 
