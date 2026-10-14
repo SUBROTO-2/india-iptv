@@ -132,7 +132,7 @@
 ## 📦 APK
 
 **সংস্করণ:** `1.0`  
-**ফাইল:** [`INDIA_IPTV_1.0.apk`](releases/INDIA_IPTV_1.0.apk)
+**ফাইল:** [`INDIA_IPTV_1.0.apk`](https://github.com/SUBROTO-2/india-iptv/releases/download/main/INDIA.IPTV_1.0.apk)
 
 <details>
 <summary><strong>APK SHA-256 checksum</strong></summary>
